@@ -1,0 +1,16 @@
+RESULTS
+Choose your college:  
+1. College of Engineering and Technology
+2. College of Business Management, Economics and Commerce
+3. College of Arts, Science and Humanities
+4. College of Law and Governance
+5. College of Fashion Design and Merchandising
+6. College of Architecture and Design
+Enter your college number:  1
+Choose your course
+1. B.Tech CS&E
+2. B.Tech ECE
+Enter your course number:  1
+Enter your enrollment number:  150158
+Enter your year:  3
+96
